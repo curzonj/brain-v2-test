@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/brain-v2-test/static/css/main.98ef4ed7.chunk.css",
-    "main.js": "/brain-v2-test/static/js/main.14bf0d25.chunk.js",
-    "main.js.map": "/brain-v2-test/static/js/main.14bf0d25.chunk.js.map",
+    "main.css": "/brain-v2-test/static/css/main.a6d8e244.chunk.css",
+    "main.js": "/brain-v2-test/static/js/main.7dcaf89f.chunk.js",
+    "main.js.map": "/brain-v2-test/static/js/main.7dcaf89f.chunk.js.map",
     "runtime~main.js": "/brain-v2-test/static/js/runtime~main.c9702815.js",
     "runtime~main.js.map": "/brain-v2-test/static/js/runtime~main.c9702815.js.map",
-    "static/js/2.669502eb.chunk.js": "/brain-v2-test/static/js/2.669502eb.chunk.js",
-    "static/js/2.669502eb.chunk.js.map": "/brain-v2-test/static/js/2.669502eb.chunk.js.map",
+    "static/js/2.1a64ccdf.chunk.js": "/brain-v2-test/static/js/2.1a64ccdf.chunk.js",
+    "static/js/2.1a64ccdf.chunk.js.map": "/brain-v2-test/static/js/2.1a64ccdf.chunk.js.map",
     "index.html": "/brain-v2-test/index.html",
-    "precache-manifest.016fc9b5ef3e6e382be68b40fa1e75f9.js": "/brain-v2-test/precache-manifest.016fc9b5ef3e6e382be68b40fa1e75f9.js",
+    "precache-manifest.6a28f786a56f7cf268971e0c621cda28.js": "/brain-v2-test/precache-manifest.6a28f786a56f7cf268971e0c621cda28.js",
     "service-worker.js": "/brain-v2-test/service-worker.js",
-    "static/css/main.98ef4ed7.chunk.css.map": "/brain-v2-test/static/css/main.98ef4ed7.chunk.css.map"
+    "static/css/main.a6d8e244.chunk.css.map": "/brain-v2-test/static/css/main.a6d8e244.chunk.css.map"
   }
 }
