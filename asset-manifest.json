@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/brain-v2-test/static/css/main.98ef4ed7.chunk.css",
-    "main.js": "/brain-v2-test/static/js/main.613e4c02.chunk.js",
-    "main.js.map": "/brain-v2-test/static/js/main.613e4c02.chunk.js.map",
+    "main.js": "/brain-v2-test/static/js/main.14bf0d25.chunk.js",
+    "main.js.map": "/brain-v2-test/static/js/main.14bf0d25.chunk.js.map",
     "runtime~main.js": "/brain-v2-test/static/js/runtime~main.c9702815.js",
     "runtime~main.js.map": "/brain-v2-test/static/js/runtime~main.c9702815.js.map",
     "static/js/2.669502eb.chunk.js": "/brain-v2-test/static/js/2.669502eb.chunk.js",
     "static/js/2.669502eb.chunk.js.map": "/brain-v2-test/static/js/2.669502eb.chunk.js.map",
     "index.html": "/brain-v2-test/index.html",
-    "precache-manifest.d3722b8dba81bda02ebad2a76fd34a39.js": "/brain-v2-test/precache-manifest.d3722b8dba81bda02ebad2a76fd34a39.js",
+    "precache-manifest.016fc9b5ef3e6e382be68b40fa1e75f9.js": "/brain-v2-test/precache-manifest.016fc9b5ef3e6e382be68b40fa1e75f9.js",
     "service-worker.js": "/brain-v2-test/service-worker.js",
     "static/css/main.98ef4ed7.chunk.css.map": "/brain-v2-test/static/css/main.98ef4ed7.chunk.css.map"
   }
