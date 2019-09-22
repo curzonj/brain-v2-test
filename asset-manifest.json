@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/brain-v2-test/static/css/main.98ef4ed7.chunk.css",
+    "main.js": "/brain-v2-test/static/js/main.d8cfe21c.chunk.js",
+    "main.js.map": "/brain-v2-test/static/js/main.d8cfe21c.chunk.js.map",
+    "runtime~main.js": "/brain-v2-test/static/js/runtime~main.c9702815.js",
+    "runtime~main.js.map": "/brain-v2-test/static/js/runtime~main.c9702815.js.map",
+    "static/js/2.17c2bcdc.chunk.js": "/brain-v2-test/static/js/2.17c2bcdc.chunk.js",
+    "static/js/2.17c2bcdc.chunk.js.map": "/brain-v2-test/static/js/2.17c2bcdc.chunk.js.map",
+    "index.html": "/brain-v2-test/index.html",
+    "precache-manifest.415a3722b9bb6267caf8702594c7bc1d.js": "/brain-v2-test/precache-manifest.415a3722b9bb6267caf8702594c7bc1d.js",
+    "service-worker.js": "/brain-v2-test/service-worker.js",
+    "static/css/main.98ef4ed7.chunk.css.map": "/brain-v2-test/static/css/main.98ef4ed7.chunk.css.map"
+  }
+}
